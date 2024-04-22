@@ -1,0 +1,6 @@
+pl\comarch\szkolenia\spring\boot\repositories\NameRepository.class
+pl\comarch\szkolenia\spring\boot\configuration\AppConfiguration.class
+pl\comarch\szkolenia\spring\boot\controllers\SimpleController.class
+pl\comarch\szkolenia\spring\boot\model\Car.class
+pl\comarch\szkolenia\spring\boot\repositories\INameRepository.class
+pl\comarch\szkolenia\spring\boot\App.class
